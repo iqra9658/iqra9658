@@ -74,17 +74,28 @@ const iqra = {
 
 ---
 
-## ♡Featured Projects
+
+## ♡ Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|:---|:---|:---|
-|  Portfolio Website | My personal developer portfolio | HTML · CSS · JS |
-| Coming Soon | Something exciting is brewing | React |
-|  More Projects | Always building and experimenting | JavaScript |
+*Some things I've been building with curiosity and coffee.*
 
 </div>
+
+| Project | Description | Repository | Live Demo |
+|:---|:---|:---:|:---:|
+| 🌐 JS Portfolio | My personal portfolio website | [Code](https://github.com/iqra9658/js-portfolio) | [Visit ↗](https://js-portfolio-azure-iota.vercel.app/portfolio/index.html) |
+| 🔐 Password Generator | Password generator project | [Code](https://github.com/iqra9658/password-generator) | Coming soon |
+| 📊 Student Average Analyzer | Student average analysis application | [Code](https://github.com/iqra9658/student-average-analyzer) | Coming soon |
+| 📈 Smart Stock | Stock-related JavaScript project | [Code](https://github.com/iqra9658/Smart-Stock) | Coming soon |
+
+<div align="center">
+
+**More projects coming soon ♡**
+
+</div>
+
 
 ---
 
