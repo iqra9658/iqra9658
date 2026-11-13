@@ -33,7 +33,7 @@ const iqra = {
 - ✨ Learning something new every day.
 - 🖤 Believing that good design lives in the details.
 
-## ✦ Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" />
@@ -46,7 +46,7 @@ const iqra = {
 - Practicing JavaScript.
 - Learning to write cleaner code.
 
-## ✦ A Little Reminder
+##  A Little Reminder
 
 <div align="center">
 
@@ -58,7 +58,7 @@ const iqra = {
 
 ---
 
-## ✦ GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -72,4 +72,26 @@ const iqra = {
 
 </div>
 
+---
 
+## ♡Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|:---|:---|:---|
+|  Portfolio Website | My personal developer portfolio | HTML · CSS · JS |
+| Coming Soon | Something exciting is brewing | React |
+|  More Projects | Always building and experimenting | JavaScript |
+
+</div>
+
+---
+
+<div align="center">
+
+*Made with curiosity, coffee & a little bit of code.*
+
+Thanks for stopping by 
+
+</div>
