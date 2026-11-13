@@ -55,3 +55,21 @@ const iqra = {
 **Thanks for visiting my little corner of GitHub! ♡**
 
 </div>
+
+---
+
+## ✦ GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iqra9658&show_icons=true&theme=dark&hide_border=true&title_color=e8b7c5&icon_color=e8b7c5&text_color=c9d1d9&bg_color=0d1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqra9658&layout=compact&theme=dark&hide_border=true&title_color=e8b7c5&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=iqra9658&theme=dark&hide_border=true&ring=e8b7c5&fire=e8b7c5&currStreakLabel=e8b7c5&background=0d1117" />
+
+</div>
+
+
