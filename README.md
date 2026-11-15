@@ -75,22 +75,28 @@ const iqra = {
 ---
 
 
+
 ## ♡ Featured Projects
 
 <div align="center">
 
-*Some things I've been building with curiosity and coffee.*
+*Things I've been creating, learning and experimenting with.*
 
 </div>
 
-| Project | Description | Repository | Live Demo |
-|:---|:---|:---:|:---:|
-| 🌐 JS Portfolio | My personal portfolio website | [Code](https://github.com/iqra9658/js-portfolio) | [Visit ↗](https://js-portfolio-azure-iota.vercel.app/portfolio/index.html) |
-| 🔐 Password Generator | Password generator project | [Code](https://github.com/iqra9658/password-generator) | Coming soon |
-| 📊 Student Average Analyzer | Student average analysis application | [Code](https://github.com/iqra9658/student-average-analyzer) | Coming soon |
-| 📈 Smart Stock | Stock-related JavaScript project | [Code](https://github.com/iqra9658/Smart-Stock) | Coming soon |
+| Project | Description | Links |
+|:---|:---|:---:|
+| 🌐 JS Portfolio | My personal portfolio website | [View Code](https://github.com/iqra9658/js-portfolio) · [Live](https://js-portfolio-azure-iota.vercel.app/portfolio/index.html) |
+| 🔐 Password Generator | A password generator project | [View Code](https://github.com/iqra9658/password-generator) |
+| 📊 Student Average Analyzer | A student average analysis project | [View Code](https://github.com/iqra9658/student-average-analyzer) |
+| 📈 Smart Stock | A JavaScript project | [View Code](https://github.com/iqra9658/Smart-Stock) |
 
 <div align="center">
+
+*Learning by building. Growing with every commit. ♡*
+
+</div>
+
 
 **More projects coming soon ♡**
 
